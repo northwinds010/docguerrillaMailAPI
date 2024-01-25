@@ -76,8 +76,8 @@ Toda vez que uma solicitação é feita com um cabeçalho de Autorização, o ob
 
 ``` json
 {
-success:true, 
-error_codes:[]
+"success":true, 
+"error_codes":[]
 }
 ```
 Success é booleano. Se for verdadeiro, então o array error_codes estará vazio. Os possíveis códigos de erro são:
